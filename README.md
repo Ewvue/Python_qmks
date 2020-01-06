@@ -1,7 +1,8 @@
 # python
 ## Python项目内容
 * [Github](https://github.com/Ewvue/python_qmks/)
-* [Pythonanywhere](http://liangshanyi777.pythonanywhere.com/)
+* [Pythonanywhere1](http://liangshanyi777.pythonanywhere.com/)
+* [Pythonanywhere2](http://liangshanyi777.pythonanywhere.com/)
 * 我们小组通过研究影视传媒行业的品牌发展，以及在中国各地的分布情况，爬取到的全国影院数据进行全国地图可视化，与各地的人均消费水平做对比，并进行进行相应的交互。以下是我们可以看到的的页面url：
 * 我们小组通过研究影视传媒行业的品牌发展，以及在中国各地的分布情况，爬取到的全国影院数据进行全国地图可视化，与各地的人均消费水平做对比，并进行进行相应的交互。以下是我们可以看到的的页面url：
 
